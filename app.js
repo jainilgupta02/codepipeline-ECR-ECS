@@ -6,3 +6,4 @@ app.get('/', (req, res) => res.send('Hello from ECS! 🚀  v1'));
 app.get('/', (req, res) => res.send('Now New commit and Release! 🚀  v2'));
 
 app.listen(port, () => console.log(`App running on port ${port}`));
+app.listen(port, () => console.log(`App running on port ${port}`));
